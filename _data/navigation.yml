@@ -2,7 +2,7 @@
 main:
  - title: "About"
    url: /about/
- - title: "Posts by Category"
+ - title: "카테고리"
    url: /category-archive/
- - title: "Posts by Tag"
+ - title: "태그"
    url: /tag-archive/
